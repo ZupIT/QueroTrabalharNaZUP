@@ -13,7 +13,7 @@ Atualmente procuramos por profissionais que atuem nas seguintes areas:
 
  - Desenvolvimento
  - Qualidade e Testes
- - Analise de requisitos e projetos
+ - Análise de requisitos e projetos
  - Oracle Bus Service
 
 Perfil
