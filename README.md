@@ -32,19 +32,19 @@ Se seu interesse é em desenvolvimento, tenha em mente que é necessário preenc
 
 Alguns dos pontos abaixo são diferenciais:
 
-1. FrontEnd web (JavaScript, HTML(5), jQuery, CSS(3), AngularJS, etc); 
-2. BackEnd web (Java, Ruby, Python, Node.js etc); 
+1. FrontEnd web (JavaScript, HTML(5), CSS(3), AngularJS, jQuery, etc); 
+2. BackEnd web (Java, Python, Ruby, Node.js, etc); 
 3. Mobile (iOS, Android); 
 
-Para a area de qualidade é importante ser extremamente criterioso em testes, além de detalhista na escrita de casos de teste e controle de qualidade.
+Para a área de qualidade é importante ser extremamente criterioso em testes, além de detalhista na escrita de casos de teste e controle de qualidade.
 
-Já para analise de requisitos/projetos, é preciso planejamento, garantir as entregas junto ao cliente, gerenciar o roadmap e ciclo de vida dos produtos, prospectar e fazer priorização de features, definir requisitos técnicos e funcionais e fazer a ponte com a equipe técnica e cliente.
+Já para análise de requisitos/projetos, é preciso planejamento, garantir as entregas junto ao cliente, gerenciar o roadmap e ciclo de vida dos produtos, prospectar e fazer priorização de *features*, definir requisitos técnicos e funcionais e fazer a ponte com a equipe técnica e cliente.
 
 Candidate-se
 ============
 
-Para se candidatar a uma vaga, basta clonar este projeto, preencher o currículo seguindo as informações do arquivo `Curriculo.md`e solicitar um pull request.
+Para se candidatar a uma vaga, basta clonar este projeto, preencher o currículo seguindo as informações do arquivo `Curriculo.md`e solicitar um *pull request*.
 
-Para desenvolvedores, além do currículo, é necessário propor uma solução para um dos projetos descritos na pasta `Testes` e também solicitar o pull request.
+Para desenvolvedores, além do currículo, é necessário propor uma solução para um dos projetos descritos na pasta `Testes` e também solicitar o *pull request*.
 
 Caso não queira expor seu currículo e/ou código, poderá compactar os arquivos e envia-los em anexo para o email [vagas@zup.com.br](mailto:vagas@zup.com.br).
