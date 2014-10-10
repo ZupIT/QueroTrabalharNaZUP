@@ -45,6 +45,6 @@ Candidate-se
 
 Para se candidatar a uma vaga, basta clonar este projeto, preencher o currículo seguindo as informações do arquivo `Curriculo.md`e solicitar um pull request.
 
-Para desenvolvedores, além do currículo, é necessário propor uma solução para o projeto descrito na pasta `Teste` e também solicitar o pull request.
+Para desenvolvedores, além do currículo, é necessário propor uma solução para um dos projetos descritos na pasta `Testes` e também solicitar o pull request.
 
 Caso não queira expor seu currículo e/ou código, poderá compactar os arquivos e envia-los em anexo para o email [vagas@zup.com.br](mailto:vagas@zup.com.br).
