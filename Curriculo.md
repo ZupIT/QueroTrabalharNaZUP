@@ -29,7 +29,7 @@ Cargo :Estagiário
 <br>Duração: 1 ano <br/>
 Atividades Desenvolvidas: Acompanhar extração de dados para atendimento a fiscalizações, acompanhamento supervisionado no desenvolvimento de planilhas eletrônicas, organizar arquivos de programas.   
 
- <br>Sistema Gestor Software <br/>
+ <br>Sistema Gestor de Software <br/>
 Cargo: Estagiário (Suporte e Analista de Sistema)
 <br>Duração: 2 meses<br/>
 Atividades Desenvolvidas: Suporte ao HelpDesk, atendimento e suporte aos clientes e ou usuários que utilizam os sistemas. Analisar e testar softwares desenvolvidos recentemente e procurar o melhoramento da eficiência e eficácia de outros sistemas.
