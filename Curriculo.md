@@ -36,10 +36,3 @@ Atividades Desenvolvidas: Suporte ao HelpDesk, atendimento e suporte aos cliente
 
 <br><strong>Outros conhecimentos:</strong><br/>
 -Pacote office, SQL Server, Linguagem de programação Java, PHP, HTML, CSS.
-
-
-
-
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
