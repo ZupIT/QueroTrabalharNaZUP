@@ -15,7 +15,9 @@ Requisitos:
 **Requisição:**
 Envia o parâmetro *cepEscolhido*
 
-O parâmetro deve conter apenas dígitos, min: 8 dígitos, max: 8 dígitos
+O parâmetro deve conter apenas 8 dígitos em formato String. 
+
+Ex. Para o CEP 00000-000 considere "00000000"
 
 **Resposta:**
 Retorna um JSON nos seguintes formatos:
