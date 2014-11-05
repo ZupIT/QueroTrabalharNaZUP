@@ -89,4 +89,7 @@ Instruções
 - Proponha e codifique a solução na linguagem de sua preferência.
 - Justifique o uso das tecnologias escolhidas para a solução do problema (Linguagem, Frameworks, Banco de dados).
 - Se aplicável, crie testes unitátios para os serviços.
-- Faça um *pull request* da sua solução neste repositório. 
+- Faça um *pull request* da sua solução neste repositório.
+
+###Atenção:
+Não é necessário interface gráfica para este problema, mas se julgar conveniente poderá faze-la.
