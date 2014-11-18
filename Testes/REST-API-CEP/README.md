@@ -17,7 +17,7 @@ Envia o parâmetro *cepEscolhido*
 
 O parâmetro deve conter apenas 8 dígitos em formato String. 
 
-Ex. Para o CEP 00000-000 considere "00000000"
+Ex. Para o CEP 00000-000 considere "00000000".
 
 **Resposta:**
 Retorna um JSON nos seguintes formatos:
@@ -37,7 +37,7 @@ Retorna um JSON nos seguintes formatos:
 ```json
 {
     "status": "ERRO",
-    "mensagem": "O CEP informado não encontrado"
+    "mensagem": "O CEP informado não foi encontrado"
 }
 ```
 - Caso Erro "CEP inválido":
