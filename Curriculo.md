@@ -26,6 +26,7 @@ Desenvolver e aperfeiçoar os conhecimentos na área da ciência da computação
 
 ###FORMAÇÃO
 - UNIVERSIDADE ESTADUAL PAULISTA – UNESP – Ibilce
+
 Ciência da Computação – Formação em 2015
 
 ---
