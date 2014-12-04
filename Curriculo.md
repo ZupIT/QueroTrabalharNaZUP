@@ -1,20 +1,34 @@
 Área de interesse
-====
+=====
 
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
+- Desenvolvimento
+- Qualidade e Testes
+- Análise de requisitos e projetos
 
 Currículo
 =========
 
-*Coloque seu CV aqui.*
+Vitor Emanuel Cervantes Strazzi
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+Brasileiro, Solteiro, 26 anos 
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+Rua Siqueira Campos, 3733 - 
+Vila Santa Cruz – São José do Rio Preto/SP 
+
+Telefone: (17)99605-9410 / E-mail: vecstrazzi@gmail.com
+
+---
+
+###OBJETIVO
+Desenvolver e aperfeiçoar os conhecimentos na área da ciência da computação
+
+---
+
+###FORMAÇÃO
+- UNIVERSIDADE ESTADUAL PAULISTA – UNESP – Ibilce
+Ciência da Computação – Formação em 2015
+
+---
+
+###LÍNGUAS ESTRANGEIRAS
+- Inglesa – Fluente – Ensino particular
