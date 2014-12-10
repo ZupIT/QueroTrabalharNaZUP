@@ -89,6 +89,8 @@ Instruções
 ----------
 
 - Proponha e codifique a solução na linguagem de sua preferência.
+- *Não utilize soluções prontas* (como por exemplo a API dos Correios).
+- Crie sua propria solução do ínicio, inclusive a estrutura do banco de dados.
 - Justifique o uso das tecnologias escolhidas para a solução do problema (Linguagem, Frameworks, Banco de dados).
 - Se aplicável, crie testes unitátios para os serviços.
 - Faça um *pull request* da sua solução neste repositório.
