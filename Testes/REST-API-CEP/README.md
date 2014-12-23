@@ -96,5 +96,5 @@ Instruções
 - Faça um *pull request* da sua solução neste repositório.
 
 ###Atenção:
-Não é necessário interface gráfica para este problema, mas se julgar conveniente poderá faze-la.
-Não é necessário hospedar a solução sem nenhum servidor, apenas submeta o código através do pull request
+- Não é necessário interface gráfica para este problema, mas se julgar conveniente poderá faze-la.
+- Não é necessário hospedar a solução sem nenhum servidor, apenas submeta o código através do pull request.
