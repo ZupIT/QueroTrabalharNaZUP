@@ -96,5 +96,11 @@ Instruções
 - Faça um *pull request* da sua solução neste repositório.
 
 ###Atenção:
-- Não é necessário interface gráfica para este problema, mas se julgar conveniente poderá faze-la.
+- Não é necessário interface gráfica para este problema, mas se julgar conveniente poderá fazê-la.
 - Não é necessário hospedar a solução sem nenhum servidor, apenas submeta o código através do pull request.
+
+###Sugestões de pesquisa:
+- Protocolo HTTP: Requests/Responses.
+- Aplicações web e RESTful web services na linguagem escolhida.
+- Servidor de aplicação e servidor HTTP.
+- Banco de dados (ex. MySQL) e Mapeamento objeto-relacional (ex. Hibernate).
