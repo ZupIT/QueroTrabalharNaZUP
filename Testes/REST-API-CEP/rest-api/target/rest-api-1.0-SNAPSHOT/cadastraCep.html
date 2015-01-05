@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Cadastra Cep</title>
+    </head>
+    <body>
+        <h1 align="center">Bem vindo ao formulario de Cadastro de CEPs</h1>
+        <table align="center">
+            <tr>
+                <td>
+                    <form action="cadastro.jsp" method="POST">
+                        <fieldset>
+                            <legend>Formulario de Cadastro de CEP</legend>
+                            <table cellspacing="10">
+                                <tr>
+                                    <td><label for="cep">CEP: </label></td>
+                                    <td align="left"><input type="text" name="cep1" id="cep" size="5">-<input type="text" name="cep2" id="cep" size="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><label for="end">Endereco: </label></td>
+                                    <td align="left"><input type="text" name="end" id="end" size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td><label for="bairro">Bairro: </label></td>
+                                    <td align="left"><input type="text" name="bairro" id="bairro" size="25"></td>
+                                </tr>
+                                <tr>
+                                    <td><label for="cidade">Cidade: </label></td>
+                                    <td align="left"><input type="text" name="cidade" id="cidade" size="40" size="40"></td>
+                                    <td><label for="estado">UF: </label></td>
+                                    <td align="left">
+                                        <select name="uf">
+                                            <option value="AC">AC</option>
+                                            <option value="AL">AL</option> 
+                                            <option value="AM">AM</option> 
+                                            <option value="AP">AP</option> 
+                                            <option value="BA">BA</option> 
+                                            <option value="CE">CE</option> 
+                                            <option value="DF">DF</option> 
+                                            <option value="ES">ES</option> 
+                                            <option value="GO">GO</option> 
+                                            <option value="MA">MA</option> 
+                                            <option value="MT">MT</option> 
+                                            <option value="MS">MS</option> 
+                                            <option value="MG">MG</option> 
+                                            <option value="PA">PA</option> 
+                                            <option value="PB">PB</option> 
+                                            <option value="PR">PR</option> 
+                                            <option value="PE">PE</option> 
+                                            <option value="PI">PI</option> 
+                                            <option value="RJ">RJ</option> 
+                                            <option value="RN">RN</option> 
+                                            <option value="RO">RO</option> 
+                                            <option value="RS">RS</option> 
+                                            <option value="RR">RR</option> 
+                                            <option value="SC">SC</option> 
+                                            <option value="SE">SE</option> 
+                                            <option value="SP">SP</option> 
+                                            <option value="TO">TO</option> 
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center"><input type="submit" value="Enviar"></td>
+                                    <td><input type="reset" value="Cancelar"></td>
+                                </tr>  
+                            </table> 
+                        </fieldset>             
+                    </form>
+                </td>    
+            </tr>
+        </table> 
+    </body>
+</html>
+
