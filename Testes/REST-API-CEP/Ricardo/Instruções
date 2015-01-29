@@ -1,0 +1,27 @@
+Por que Python?
+
+Escolhi python por causa de sua sintaxe simples e clara e também
+porque gosto da linguagem em sí.
+
+Por que sqlite?
+
+Porque já vem por padrão na maioria das distros de linux.
+
+-----------------------------------------------------------------
+
+-Para a resolução do problema utilizei o microframework flask (http://flask.pocoo.org/).
+-Para executar o programa é preciso instalar os seguintes pacotes:
+	1 - python-flask
+	2 - curl
+-Após a instalação dos pacotes anteriores é só executar o script main.py.
+-Enquanto main.py estiver ativo, os requests podem ser feitos abrindo outro terminal
+e utilizando o curl. Os comandos para teste estão comentados em main.py.
+
+Observação 1
+	O script criardatabase.py recria o arquivo banco.db.
+
+Observação 2
+	Na hora de cadastrar um endereço, não tem o número do local.
+	Portanto então eu verifico se o endereço já foi cadastrado através
+	do cep apenas. Foi por isso que coloquei o cep como chave primária.
+	Toda vez então que o cep se repete, o sqlite lança uma exceção.
