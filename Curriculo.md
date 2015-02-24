@@ -1,20 +1,32 @@
-Área de interesse
-====
+# Heitor Polizeli Rodrigues
+Desenvolvedor Mobile  
+heitorprodrigues@gmail.com
 
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
+- - -
+## Resumo
 
-Currículo
-=========
+Atualmente trabalhando com desenvolvimento de aplicativos mobile para empresas. Estudei no curso de Bacharelado em Ciência da Computação com ênfase em Sistemas de Informação na Universidade Estadual Paulista Júlio de Mesquita Filho. Destacando os conhecimentos para gerenciamento de banco de dados e desenvolvimento de aplicações comerciais com foco na internet
 
-*Coloque seu CV aqui.*
+- - -
+## Experiência
+Analista Programador Junior 2 na NewM
+- Abril de 2014 até o momento
+- Soluções mobile para gestão empresarial 
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+Desenvolvedor de Software no Grupo de Banco de Dados
+   - março de 2011 até março de 2013 
+   - Desenvolvimento de Sistemas, soluções digitais para problemas do cotidiano
+ 
+- - -
+## Idiomas
+- Português
+- Inglês
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+- - -
+## Competências
+Android, Java, Javascript, SQL, JQuery, PHP, HTML/CSS, C, C++
+
+- - -
+## Formação Acadêmica
+UNESP - Universidade Estadual Paulista
+Graduado, Ciência da Computação. 2010 - 2014
