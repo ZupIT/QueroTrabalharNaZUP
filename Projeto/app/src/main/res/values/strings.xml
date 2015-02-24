@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Currículo Heitor</string>
+
+    <string name="hello_world">Olá! Meu nome é Heitor.</string>
+    <string name="title_activity_splash">Currículo Heitor</string>
+    <string name="msg_ops">Ops! Tivemos um problema!</string>
+
+    <!-- Mensagens na Splash -->
+
+    <string name="msg_1">E este é o meu currículo!!!</string>
+    <string name="msg_2">Trabalho com android há 2 anos na NewM</string>
+    <string name="msg_3">Aprendi alguns truques!</string>
+    <string name="msg_4">Vários conceitos!!!</string>
+    <string name="msg_5">Obrigado por esperar!!!</string>
+
+    <string name="conceito_1">Singleton</string>
+    <string name="conceito_2">9Patch</string>
+    <string name="conceito_3">Loaders</string>
+    <string name="conceito_4">Desempenho em listas</string>
+    <string name="conceito_5">Array Adapter</string>
+    <string name="conceito_6">AsyncTask</string>
+    <string name="conceito_7">HttpURLConnection</string>
+
+    <!-- MainActivity -->
+
+    <string name="label_idade">Idade:</string>
+    <string name="label_cpf">CPF:</string>
+    <string name="label_telefone">Telefone:</string>
+    <string name="label_email">E-mail:</string>
+    <string name="label_idioma">Idiomas:</string>
+    <string name="label_resumo">Resumo:</string>
+    <string name="label_experiencia">Experiência:</string>
+    <string name="label_competencia">Competências:</string>
+
+</resources>
