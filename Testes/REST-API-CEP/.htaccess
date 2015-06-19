@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+RewriteRule ^rest-api/cadastro 			cadastroCep/cadastrocep.php
+RewriteRule ^rest-api/busca/(\d+) 		cadastroCep/buscacep.php?cep=$1
