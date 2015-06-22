@@ -1,0 +1,16 @@
+create database api_cep;
+
+create table endereco (
+    id integer auto_increment primary key,
+    cep varchar(8),
+    endereco varchar(250),
+    bairro varchar(100),
+    cidade varchar(150),
+    estado varchar(2)
+    );
+
+insert into endereco values
+(1,'15600000','rua 10','centro','fernandopolis','sp'),
+(2,'15700000','rua 20','ana luiza','jales','sp'),
+(3,'15900000','rua 40','fundo','rubineia','sp'),
+(4,'23000345','rua 94','rural','jau','sp');

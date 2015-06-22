@@ -1,20 +1,55 @@
 Área de interesse
 ====
 
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
+* Desenvolvimento. 
+* Análise de requisitos e projetos.
 
 Currículo
 =========
 
-*Coloque seu CV aqui.*
+## Drausio Lucas de Carvalho Soares ##
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+- Brasileiro, solteiro, 23 anos
+- Rua Helena Sartori, 365
+- Ana Luiza – Fernandópolis– SP
+- Telefone: (17) 3462-5593 /  (17)99793-0727 (vivo)
+- E-mail: drausio_lukas@hotmail.com.
+- Disponibilidade para mudar de cidade : Sim
+- Habilitação: A/B.</h3>
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+### OBJETIVO ###
+
+>Bacharelado em Sistema de Informação.
+
+### FORMAÇÃO ###
+
+*	Pós-Graduação em Consultoria Web, FATEC São Jose do Rio Preto, Cursando.
+*	Bacharelado em Sistema de Informação. FEF, concluído em 2013.
+*	Especialização Técnica de Nível Médio em Java-WR, ETEC–Fernandópolis, concluído em 2009.
+*	Habilitação Profissional Técnica de Nível Médio de Técnico em Informática, ETEC - Fernandópolis, concluído em 2009.
+
+### QUALIFICAÇÕES ###
+
+*	Curso Microtik, Big Cursos, 2015.
+*	Curso de Desenvolvimento Delphi Orientado a objeto, FEF, 2013.
+*	Curso de Desenvolvimento de aplicativos Mobile series 40, INdT, 2013.
+*	Curso de Desenvolvimento de aplicativos Mobile Windows Phone, INdT, 2013.
+*	Estágio Supervisionado projeto Mercon(javaEE, postgres), FEF, 2013.
+*	Trabalho Conclusão de Curso Monitoramento de Redes com Honeypots, FEF, 2013.
+*	Curso de Língua Inglesa, Centro cultural América, nível básico, 2013.
+*	Curso de Servidores Linux, Big Cursos, 2011. 
+
+### EXPERIÊNCIA PROFISSIONAL ###
+
+*	Desde 2012 – Infosis informática LTDA
+Cargo: Suporte técnico / programador.
+*	2009 – 2010 Big Cursos e Serviços
+Cargo: Instrutor (estágio).
+	
+### SERVIÇO VOLUNTÁRIO ###
+
+*	2010 - 2012 – Policia Militar do Estado de São Paulo
+Cargo: Auxiliar Voluntário Temporario.
+
+
+
