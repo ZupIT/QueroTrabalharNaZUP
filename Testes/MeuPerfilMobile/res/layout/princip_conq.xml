@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/imagem2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imagem1"
+        android:src="@drawable/trabalho" />
+
+    <ImageView
+        android:id="@+id/imagem1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:src="@drawable/diploma" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imagem2"
+        android:layout_marginLeft="22dp"
+        android:layout_toRightOf="@+id/imagem2"
+        android:text="- Inserção e contratação no mercado de trabalho ( Atualmente na área de TI)"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:text=" - Diploma de formação Superior ( Faculdade de tecnologia - FATEC)"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

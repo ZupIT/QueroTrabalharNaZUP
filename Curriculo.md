@@ -1,20 +1,38 @@
 Área de interesse
 ====
 
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
+Desenvolvedor Júnior.
 
 Currículo
 =========
+<strong>Informações Pessoais</strong>
+<br>Nome: Matheus Guimarães Dias Rubiato.<br/>
+Nascimento: 23/09/1991
+<br>Telefone: (17)3226-1265 / (17)99732-0608<br/>
+Email: matheus.rubiato@gmail.com 
+<br>Rua: Pasquoalina Verona Bonvino,Nº111<br/>
+Bairro: Higienópolis                        Cidade: São José do Rio Preto     
 
-*Coloque seu CV aqui.*
+<br><strong>Formação:</strong><br/>
+Escola/Instituto: Fatec-São José do Rio Preto 
+<br>Cursando: Informática para negócios (6º Período/noite) - término do curso dezembro 2014<br/> 
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+<strong>Cursos</strong>
+<br>- Descrição do curso: Manutenção de micro e implantação de rede local<br/> 
+Escola/Instituto: SENAC
+<br>- Descrição do curso: Infraestrutura – Administração de redes na plataforma Microsoft Windows Server 2003/2008 (Programa Students to Business).<br/>
+Escola/Instituto: SENAC
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+<strong>Experiência</strong>
+<br> Delegacia da Receita Federal do Brasil <br/>
+Cargo :Estagiário
+<br>Duração: 1 ano <br/>
+Atividades Desenvolvidas: Acompanhar extração de dados para atendimento a fiscalizações, acompanhamento supervisionado no desenvolvimento de planilhas eletrônicas, organizar arquivos de programas.   
+
+ <br>Sistema Gestor de Software <br/>
+Cargo: Estagiário (Suporte e Analista de Sistema)
+<br>Duração: 2 meses<br/>
+Atividades Desenvolvidas: Suporte ao HelpDesk, atendimento e suporte aos clientes e ou usuários que utilizam os sistemas. Analisar e testar softwares desenvolvidos recentemente e procurar o melhoramento da eficiência e eficácia de outros sistemas.
+
+<br><strong>Outros conhecimentos:</strong><br/>
+-Pacote office, SQL Server, Linguagem de programação Java, PHP, HTML, CSS.
