@@ -1,20 +1,41 @@
-Área de interesse
+Area de interesse
 ====
 
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
+dev front-end ou back-and
 
-Currículo
+Dados Pessoais
 =========
 
-*Coloque seu CV aqui.*
+                            MARCO ANTONIO BONUTO FERNANDES
+                                30-10-1987 - solteiro
+                                 CPF: 355.178.538-46
+                Rua Venceslau Botelho, 966 – Mançour Daud – CEP: 15070-590
+                              17 – 3012-5874 17-98105-3443
+                                 marcobonuto@yahoo.com
+                                
+Formação Acadêmica e Cursos Complementares
+=========
+- Unilago – União das Faculdades dos Grandes Lagos - Tecnólogo em Sistemas para Internet - Início: 07/2012 – Término: 12/2014
+- Senac - HTML5 e CSS3 - 40 horas - Início: 10/2014 - Término: 11/2014
+- Diversos cursos realizados online com empresas como TreinaWeb e Alura
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+Conhecimentos Intermediários
+=========
+- HTML5
+- CSS3
+- JavaScript e Jquery
+- PHP
+- C#
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+Observações Complementares
+=========
+- Possuo conhecimentos básicos e facilidade para aprender em pouco tempo qualquer que seja a linguagem utilizada dentro da empresa.
+
+- Possuo total interesse em aprender e evoluir, não apenas como profissional, mas também promovendo e impulsionando o crescimento da empresa.
+
+- Interesse em me especializar em pouco tempo para ocupar uma vaga na empresa de forma efetiva, dentro das suas necessidades.
+
+Trabalho Demonstrativo
+=========
+Site da empresa em que trabalho atualmente: http://www.nutrifert.com.br
+
