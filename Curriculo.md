@@ -1,20 +1,38 @@
-Área de interesse
-====
-
-*Coloque aqui a(s) vaga(s) para a(s) qual(is) pretende se candidatar.*
-
+Áreas de interesse
+=====
+ 
+- Desenvolvimento
+- Qualidade e Testes
+- Análise de requisitos e projetos
+ 
 Currículo
 =========
+ 
+Caio Henrique Marquezini
+Brasileiro, Solteiro, 24 anos 
+ 
+Rua José martimiano da silva, 623 - 
+Centro – Planalto/SP (próximo a rio preto)
 
-*Coloque seu CV aqui.*
+Telefone: (18)996349450 / E-mail: caionmarqz@gmail.com
 
-**Atenção:**
-- É importante informar a(s) vaga(s) desejada(s).
-- Não coloque apenas o link para sites externos como LinkedIn, coloque essa informação como adicional mas não deve substituir seu CV.
-- Este arquivo é feito em markdown
-- Utilize recursos de formatação para deixar a aparência do seu currículo agradável.
-- Estas instruções são de caráter informativo, lembre-se de remove-las ao escrever seu currículo.
+---
 
-**Links úteis**
-- [Markdown syntax guide](http://daringfireball.net/projects/markdown/syntax)
-- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+###OBJETIVO
+Trabalhar para desenvolver os projetos da empresa.
+
+---
+
+###FORMAÇÃO
+- UNIVERSIDADE PAULISTA – UNIP
+Ciência da Computação – 12/2015
+
+---
+
+###LÍNGUAS ESTRANGEIRAS
+- I can speak English if this is really necessary
+
+---
+
+###OUTROS
+- Certificação java em progresso.
