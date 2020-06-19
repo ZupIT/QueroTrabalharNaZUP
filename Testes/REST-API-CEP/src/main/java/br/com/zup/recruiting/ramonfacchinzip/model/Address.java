@@ -1,5 +1,6 @@
 package br.com.zup.recruiting.ramonfacchinzip.model;
 
+import java.io.Serializable;
 import java.util.UUID;
 
 import javax.persistence.Column;
@@ -7,9 +8,13 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.PrePersist;
 import javax.persistence.Table;
-import javax.validation.constraints.Digits;
+import javax.persistence.Transient;
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Pattern;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+import br.com.zup.recruiting.ramonfacchinzip.util.Constants;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
@@ -23,31 +28,41 @@ import lombok.Setter;
 @Builder
 @Entity
 @Table(name = "address")
-public class Address {
+public class Address implements Serializable {
+
+	private static final long serialVersionUID = 7842519982943444031L;
 
 	@Id
 	@Column(name = "uuid", unique = true, nullable = false)
-	public String uuid;
+	private String uuid;
 	
 	@NotBlank
-	@Digits(integer = 20, fraction = 0)
+	@Pattern(regexp = Constants.ZIP_CODE_PATTERN)
 	@Column(name = "zip", unique = true, nullable = false)
-	public String zip;
+	@JsonProperty("cep")
+	private String zip;
 	
 	@NotBlank
 	@Column(name = "address", nullable = false)
-	public String address;
+	@JsonProperty("endereco")
+	private String address;
 	
 	@Column(name = "district")
-	public String district;
+	@JsonProperty("bairro")
+	private String district;
 	
 	@NotBlank
 	@Column(name = "city", nullable = false)
-	public String city;
+	@JsonProperty("cidade")
+	private String city;
 	
 	@NotBlank
 	@Column(name = "state", nullable = false)
-	public String state;
+	@JsonProperty("estado")
+	private String state;
+	
+	@Transient
+	private String status;
 	
 	@PrePersist
 	public void beforePersist() {
