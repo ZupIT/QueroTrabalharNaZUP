@@ -19,7 +19,7 @@ Atualmente procuramos por profissionais que atuem nas seguintes areas:
 Perfil
 ======
 
-Nossos profissionais são dinâmicos, possuem uma excelente capacidade de solucionar de problemas e estão sempre dispostos a novos desafios.
+Nossos profissionais são dinâmicos, possuem uma excelente capacidade de solucionar problemas e estão sempre dispostos a novos desafios.
 
 Se seu interesse é em desenvolvimento, tenha em mente que é necessário preencher os seguintes requisitos:
 
